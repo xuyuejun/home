@@ -57,6 +57,7 @@ import {
   Book,
   Fire,
   LaptopCode,
+  Github
 } from "@vicons/fa";
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
