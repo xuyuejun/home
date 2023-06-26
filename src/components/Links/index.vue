@@ -34,7 +34,6 @@
               <Icon size="26">
                 <img class="icon" :src="item.icon" height="24" />
                 <!-- <component :is="siteIcon[item.icon]" /> -->
-                <!-- <div>{{ item.icon }}</div> -->
               </Icon>
               <span class="name">{{ item.name }}</span>
             </div>
@@ -67,7 +66,6 @@ import { Pagination, Mousewheel } from "swiper";
 import siteLinks from "@/assets/siteLinks.json";
 import "swiper/scss";
 import "swiper/scss/pagination";
-// import wordpress from "@/public/images/icon/minecraft.png"
 
 const store = mainStore();
 
