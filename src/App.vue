@@ -99,7 +99,7 @@ onMounted(() => {
   let styleTitle1 = "font-size: 20px;font-weight: 600;color: rgb(244,167,89);";
   let styleTitle2 = "font-size:12px;color: rgb(244,167,89);";
   let styleContent = "color: rgb(30,152,255);";
-  let title1 = "無名の主页";
+  let title1 = "徐悦钧の主页";
   let title2 = `
  _____ __  __  _______     ____     __
 |_   _|  \\/  |/ ____\\ \\   / /\\ \\   / /
@@ -136,6 +136,7 @@ main {
   .container {
     width: 100%;
     height: 100vh;
+    height: 100dvh;
     margin: 0 auto;
     @media (max-width: 1200px) {
       padding: 0 2vw;
@@ -197,6 +198,7 @@ main {
   filter: blur(0);
   width: 100%;
   height: 100%;
+  height: 100dvh;
 }
 
 .loading {
