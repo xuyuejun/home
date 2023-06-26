@@ -1,34 +1,32 @@
 [
-  [
-    {
-      "icon": "/images/icon/wordpress.png",
-      "name": "个人博客",
-      "link": "https://blog.xuyuejun.com"
-    },
-    {
-      "icon": "/images/icon/pictures.png",
-      "name": "我的相册",
-      "link": "https://pic.xuyuejun.com"
-    },
-    {
-      "icon": "/images/icon/vue.png",
-      "name": "前端Demo",
-      "link": "https://demo.xuyuejun.com"
-    },
-    {
-      "icon": "/images/icon/zentao.png",
-      "name": "禅道开源版",
-      "link": "https://zentao.xuyuejun.com"
-    },
-    {
-      "icon": "/images/icon/minecraft.png",
-      "name": "Minecraft",
-      "link": "https://weibo.com/Viktor-Xu"
-    },
-    {
-      "icon": "/images/icon/github.png",
-      "name": "GitHub",
-      "link": "https://github.com/xuyuejun"
-    }
-  ]
+  {
+    "icon": "/images/icon/wordpress.png",
+    "name": "个人博客",
+    "link": "https://blog.xuyuejun.com"
+  },
+  {
+    "icon": "/images/icon/pictures.png",
+    "name": "我的相册",
+    "link": "https://pic.xuyuejun.com"
+  },
+  {
+    "icon": "/images/icon/vue.png",
+    "name": "前端Demo",
+    "link": "https://demo.xuyuejun.com"
+  },
+  {
+    "icon": "/images/icon/zentao.png",
+    "name": "禅道开源版",
+    "link": "https://zentao.xuyuejun.com"
+  },
+  {
+    "icon": "/images/icon/minecraft.png",
+    "name": "Minecraft",
+    "link": "https://weibo.com/Viktor-Xu"
+  },
+  {
+    "icon": "/images/icon/github.png",
+    "name": "GitHub",
+    "link": "https://github.com/xuyuejun"
+  }
 ]

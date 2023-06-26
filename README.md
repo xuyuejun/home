@@ -38,17 +38,17 @@
 * 在 `终端` 中输入：
 
 ```bash
-# 安装 yarn
-npm install -g yarn
+# 安装 pnpm
+npm install -g pnpm
 
 # 安装依赖
-yarn install
+pnpm install
 
 # 预览
-yarn dev
+pnpm dev
 
 # 构建
-yarn build
+pnpm build
 ```
 > 构建完成后，静态资源会在 **`dist` 目录** 中生成，可将 **`dist` 文件夹下的文件**上传至服务器，也可使用 `Vercel` 等托管平台一键导入并自动部署
 
@@ -134,7 +134,7 @@ make clean all
 ### API
 
 * [MetingAPI By 武恩赐](https://api.wuenci.com/meting/api/)
-* [小歪 API](https://api.ixiaowai.cn/)
+* [搏天 API](https://api.btstu.cn/doc/sjbz.php)
 * [高德开放平台](https://lbs.amap.com/)
 * [Hitokoto 一言](https://hitokoto.cn/)
 
