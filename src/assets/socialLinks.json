@@ -2,7 +2,7 @@
   {
     "name": "Github",
     "icon": "/images/icon/github.png",
-    "tip": "去 Github 开源仓库看看",
+    "tip": "赏个 Star",
     "url": "https://github.com/xuyuejun"
   },
   {
@@ -26,7 +26,7 @@
   {
     "name": "Twitter",
     "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
+    "tip": "小蓝鸟 ~",
     "url": "https://twitter.com/xuyuejun"
   },
   {

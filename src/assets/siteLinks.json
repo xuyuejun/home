@@ -11,17 +11,17 @@
   },
   {
     "icon": "/images/icon/vue.png",
-    "name": "前端Demo",
+    "name": "Vue Demo",
     "link": "https://demo.xuyuejun.com"
   },
   {
     "icon": "/images/icon/zentao.png",
-    "name": "禅道开源版",
+    "name": "禅道",
     "link": "https://zentao.xuyuejun.com"
   },
   {
-    "icon": "/images/icon/minecraft.png",
-    "name": "Minecraft",
+    "icon": "/images/icon/terminal.png",
+    "name": "博客后台",
     "link": "https://weibo.com/Viktor-Xu"
   },
   {
